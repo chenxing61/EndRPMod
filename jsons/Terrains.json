@@ -61,7 +61,12 @@
 			"Units ending their turn on this terrain take [100] damage",
 			"Never receives any resources",
 			"Doesn't generate naturally"
-		]
+		],
+		"civilopediaText": [
+			{
+				"text": "Theres no way back..."
+			}
+		],
 	},
 	// Natural Wonders
 	{
@@ -72,6 +77,7 @@
 		],
 		"uniques": [
 			"Provides [5] [Knowledge]",
+			"Will not be displayed in Civilopedia",
 			"Doesn't generate naturally"
 		],
 		"impassable": true,

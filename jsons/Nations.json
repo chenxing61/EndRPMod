@@ -32,20 +32,19 @@
 		"hateHello": "Beware of your action.",
 		"tradeRequest": "For the greater good of humanity, We should exchange our goods.",
 		"outerColor": [
+			255,
+			255,
+			255
+		],
+		"innerColor": [
 			65,
 			141,
 			254
 		],
-		"innerColor": [
-			0,
-			0,
-			255
-		],
-		"favoredReligion": "",
 		"uniqueName": "Centauria",
 		"uniques": [
-			"Comment []",
-			"Starts with [Sailing]"
+			"Comment [New May Flower]",
+			"Starts with [Mathematic]"
 		],
 		"cities": [
 			"City1",
