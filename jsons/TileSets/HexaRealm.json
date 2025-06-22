@@ -1,0 +1,7 @@
+{
+	"useColorAsBaseTerrain": "false",
+		"ruleVariants": {
+		"Chaos Fog": ["Chaos Fog"],
+		"Grassland+Pillar of Creation": ["Grassland","Pillar of Creation"]
+	}
+}

@@ -1,0 +1,87 @@
+[
+	//Spectator
+	//Not "Excluded from map editor" as it serves as placeholder for "Any Civ" starting locations
+	{
+		"name": "Spectator",
+		"outerColor": [
+			255,
+			255,
+			255
+		]
+		//		"innerColor": [255,255,255]
+	},
+	//nations
+	{
+		"name": "Centauria",
+		"leaderName": "Captain 'Pup'",
+		"adjective": [
+			"Centaurian"
+		],
+		"startBias": [
+			"Avoid [Tundra]",
+			"Coast",
+			"Plains"
+		],
+		"startIntroPart1": "The refugee ship named centauria, setting off from alaska, has not arrived at any land since about 2 months ago. Now that it has exhausted its food and fresh water supply, it if forced to take a gamble under mysterious circumstances.",
+		"startIntroPart2": "I dont think this is LA! Did the Russian wrecked it from the map?",
+		"declaringWar": "Get away you Barbarian!",
+		"attacked": "Havent WWIII taught you anything?",
+		"defeated": "We failed.",
+		"introduction": "Greetings, stranger from other worldly land.",
+		"neutralHello": "Maybe we share the same ideal afterall...",
+		"hateHello": "Beware of your action.",
+		"tradeRequest": "For the greater good of humanity, We should exchange our goods.",
+		"outerColor": [
+			65,
+			141,
+			254
+		],
+		"innerColor": [
+			0,
+			0,
+			255
+		],
+		"favoredReligion": "",
+		"uniqueName": "Centauria",
+		"uniques": [
+			"Comment []",
+			"Starts with [Sailing]"
+		],
+		"cities": [
+			"City1",
+			"City2"
+		],
+		"spyNames": [
+			"Jason",
+			"Helena",
+			"Alexa",
+			"Cletus",
+			"Kassandra",
+			"Andres",
+			"Flavius",
+			"Regula",
+			"Servius",
+			"Señor X",
+			"Topolino",
+			"Serpiente"
+		]
+	},
+	//Barbarian
+	{
+		"name": "Barbarians",
+		"outerColor": [
+			0,
+			0,
+			0
+		],
+		"innerColor": [
+			185,
+			12,
+			12
+		],
+		"uniques": [
+			"Can only heal by pillaging",
+			"Excluded from map editor"
+		]
+	}
+]
