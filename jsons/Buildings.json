@@ -1,4 +1,93 @@
 [
+		{
+		"name": "Call to Arms",
+		"cost": 0,
+		"uniques": [
+			"Unsellable",
+			"Unbuildable <for [AI player] Civilizations>",
+			"Unbuildable <in [Puppeted] cities>",
+			"Only available <in cities with at least [5] [Population]>",
+			"[-1 Happiness] [in this city] <before adopting [Militia Army]>",
+			"[-1 Happiness] [in this city] <before adopting [Military Tradition]>",
+			"[-15]% [Gold] [in this city] <if [Militristic Economy] is not constructed>",
+			"[-15]% [Food] [in this city] <if [Militristic Economy] is not constructed>",
+			"[-15]% [Production] [in this city] <if [Militristic Economy] is not constructed>",
+			"Comment [Spawns free 'Levy Army' units to help with warfare.]",
+			"Comment [The number and type of unit spawned depends on the 'Military Building' in the city and your technological, cultural advancement.]",
+			"Free [Primal Warrior] appears <before discovering [Mining]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Brute Warrior] appears <after discovering [Copper Working]> <before discovering [Iron Working]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Javalineer] appears <after discovering [Mining]> <before discovering [Tactics]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Spearman] appears <after discovering [Iron Working]> <before discovering [Hand Cannon]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Spearman] appears <after discovering [Iron Working]> <before discovering [Hand Cannon]> <in cities with a [Armory]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Levy Archer] appears <after discovering [Tactics]> <before discovering [Hand Cannon]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Pike and Shot] appears <after discovering [Hand Cannon]> <before discovering [Flintlock]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Pike and Shot] appears <after discovering [Hand Cannon]> <before discovering [Flintlock]> <in cities with a [Armory]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Levy Crossbowman] appears <after discovering [Hand Cannon]> <before discovering [Rifling]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Musketeer] appears <after discovering [Flintlock]> <before discovering [Rifling]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Musketeer] appears <after discovering [Flintlock]> <before discovering [Rifling]> <in cities with a [Armory]>  <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Musketeer] appears <after discovering [Flintlock]> <before discovering [Rifling]> <in cities with a [Mobilization Department]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Gun Boat] appears <after discovering [Machinery]> <in [Coastal] cities> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Gun Boat] appears <after discovering [Machinery]> <in cities with a [Armory]> <in [Coastal] cities> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Guerrilla] appears <after discovering [Rifling]> <before adopting [Militia Army]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Guerrilla] appears <after discovering [Rifling]> <before adopting [Militia Army]> <in cities with a [Mobilization Department]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Modern Guerrilla] appears <after discovering [Rifling]> <after adopting [Militia Army]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Modern Guerrilla] appears <after discovering [Rifling]> <after adopting [Militia Army]> <in cities with a [Mobilization Department]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Rifleman] appears <after discovering [Rifling]> <before discovering [Mobile Tactics]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Rifleman] appears <after discovering [Rifling]> <before discovering [Mobile Tactics]> <in cities with a [Armory]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Rifleman] appears <after discovering [Rifling]> <before discovering [Mobile Tactics]> <in cities with a [Mobilization Department]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Modern Conscript] appears <after discovering [Mobile Tactics]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Modern Conscript] appears <after discovering [Mobile Tactics]> <in cities with a [Armory]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Free [Modern Conscript] appears <after discovering [Mobile Tactics]> <in cities with a [Mobilization Department]> <hidden from users> <if [Levies Disbandment] is not constructed>",
+			"Destroyed when the city is captured"
+		]
+	},
+		{
+		"name": "Palace",
+		"isNationalWonder": true,
+		"production": 2,
+		"science": 1,
+		"gold": 3,
+		"culture": 1,
+		"happiness": 3,
+		"cityStrength": 2,
+		"cost": 50,
+		"uniques": [
+			"'Political Building'",
+			"[+25]% Production when constructing [All] buildings [in this city]",
+			"[+25]% Production when constructing [{Civilian} {Civil Ship}] units [in this city]",
+			"Provides [1] [Artifact] <in this city> <after discovering [Archaeology]>",
+			"Gain a free [Classical Era Start] [in this city] <for [1] turns> <if starting in the [Classical era]> <hidden from users>",
+
+			"Consumes [1] [Influence] <when below [10] [Happiness]> <starting from the [Imperial era]>",
+        	"Consumes [1] [Influence] <when below [4] [Happiness]>",
+        	"Consumes [2] [Influence] <when below [-4] [Happiness]>",
+        	"Consumes [2] [Influence] <when below [-9] [Happiness]>",
+        	"Consumes [2] [Influence] <when below [-14] [Happiness]>",
+        	"Consumes [3] [Influence] <when below [-19] [Happiness]>",
+
+        	"Consumes [1] [Influence] <when below [-100] [Gold]>",
+        	"Consumes [2] [Influence] <when below [-200] [Gold]>",
+        	"Consumes [2] [Influence] <when below [-300] [Gold]>",
+
+       		"Provides [1] [Influence] <when above [4] [Happiness]> <when number of [Influence] is less than [Influence Limit]>",
+        	"Provides [1] [Influence] <when above [9] [Happiness]> <when number of [Influence] is less than [Influence Limit]>",
+        	"Provides [1] [Influence] <when above [29] [Happiness]> <when number of [Influence] is less than [Influence Limit]>",
+        	"Provides [2] [Influence] <during a Golden Age> <when number of [Influence] is less than [Influence Limit]>",
+			"Indicates the capital city"
+		]
+	},
+	{
+		"name": "Classical Era Start",
+		"uniques": [
+			"Only available <if starting in the [Classical era]>",
+			"Unbuildable",
+			"Unsellable",
+			"Instantly provides [15] [Influence]",
+			"Gain a free [Peace] [in capital] <for [1] turns>",
+			"Gain a free [Republics] [in capital] <for [1] turns>",
+			"Moves to new capital when capital changes"
+		]
+	},
 	{
 		"name":"Knowledge Mode",
 		"cost":10,
@@ -21,8 +110,83 @@
 			"[+1300]% [Science] [in all cities] <when number of [Knowledge] is equal to [13]>",  
 			"[+1400]% [Science] [in all cities] <when number of [Knowledge] is equal to [14]>",  
 			"[+1500]% [Science] [in all cities] <when number of [Knowledge] is equal to [15]>",
-			"Will not be displayed in Civilopedia",
 			"Moves to new capital when capital changes"
 		]
+	},
+	{
+		"name":"Grassland Survey Operation",
+		"cost":200,
+		"uniques":[
+			"Limited to [1] per Civilization",
+			"Must be on [Grassland]",
+			"Provides [1] [Knowledge]"
+		],
+		"requiredTech": "Philosophy",
+		"hurryCostModifier": 25
+		
+	},{
+		"name":"Plain Survey Operation",
+		"cost":500,
+		"uniques":[
+			"Limited to [1] per Civilization",
+			"Must be on [Plains]",
+			"Provides [1] [Knowledge]"
+		],
+		"requiredTech": "Irrigation",
+		"hurryCostModifier": 25
+		
+	},
+	{
+		"name":"Desert Survey Operation",
+		"cost":750,
+		"uniques":[
+			"Limited to [1] per Civilization",
+			"Must be on [Desert]",
+			"Provides [1] [Knowledge]"
+		],
+		"requiredTech": "Physics",
+		"hurryCostModifier": 25
+		
+	},
+	{
+		"name":"Center Survey Operation",
+		"cost":750,
+		"uniques":[
+			"Limited to [1] per Civilization",
+			"Must be on [Snow]",
+			"Provides [1] [Knowledge]"
+		],
+		"requiredTech": "Steam Power",
+		"hurryCostModifier": 25
+		
+	},
+	{
+		"name":"Ocean Survey Operation",
+		"cost":750,
+		"uniques":[
+			"Limited to [1] per Civilization",
+			"Must be next to [Coast]",
+			"Creates a [Chaos Gazer] improvement on a specific tile"
+		],
+		"requiredTech": "Steam Power",
+		"hurryCostModifier": 25
+		
+	},
+	{
+		"name": "National Academy of Science",
+		"isNationalWonder": true,
+		"science": 5,
+		"percentStatBonus": {
+			"science": 50
+		},
+		"uniques": [
+			"Provides [1] [Knowledge]",
+			"Provides [1] [Influence] <when number of [Influence] is less than [Influence Limit]>",
+			"Science gained from research agreements [+50]%",
+			"Only available <if [University] is constructed in all [non-[Puppeted]] cities>",
+			"Cost increases by [33] per owned city <if [Unified] is constructed>",
+			"Cost increases by [50] per owned city <if [Unified] is not constructed>"
+		],
+		"requiredTech": "Heliocentrism"
 	}
 ]

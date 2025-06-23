@@ -44,5 +44,16 @@
     "Troy",
     "Cahokia",
     "Hawaii"
+    ],
+    "buildingsToRemove": [
+    "Neolithic Era Start",
+    "Ancient Era Start",
+    "Medieval Era Start",
+    "Renaissance Era Start",
+    "Imperial Era Start",
+    "Industrial Era Start",
+    "Atomic Era Start",
+    "Information Era Start",
+    "Future Era Start"
     ]
 }

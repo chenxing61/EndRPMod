@@ -24,5 +24,24 @@
 		],
 		"shortcutKey": "F"
 	},
-	
+	{
+		"name": "Chaos Gazer",
+		"terrainsCanBeBuiltOn": [
+			"Coast",
+			"Ocean"
+		],
+		"techRequired": "Cartography",
+		"uniques": [
+			"Tile provides yield without assigned population",
+			"Must be next to [Chaos Fog]",
+			"Provides [1] [Knowledge] <with [1] to [1] neighboring [Chaos Fog] tiles>",
+			"Pillaging this improvement yields approximately [+18 Gold]"
+		],
+		"civilopediaText": [
+			{
+				"text": "Its maddening. But its... beautiful."
+			}
+		],
+		"shortcutKey": "F"
+	},
 ]
