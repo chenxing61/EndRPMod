@@ -17,13 +17,8 @@
 		"adjective": [
 			"Centaurian"
 		],
-		"startBias": [
-			"Avoid [Tundra]",
-			"Coast",
-			"Plains"
-		],
 		"startIntroPart1": "The refugee ship named centauria, setting off from alaska, has not arrived at any land since about 2 months ago. Now that it has exhausted its food and fresh water supply, it if forced to take a gamble under mysterious circumstances.",
-		"startIntroPart2": "I dont think this is LA! Did the Russian wrecked it from the map?",
+		"startIntroPart2": "I dont think this is San Franciso! Did the Russian wrecked it from the map?",
 		"declaringWar": "Get away you Barbarian!",
 		"attacked": "Havent WWIII taught you anything?",
 		"defeated": "We failed.",
@@ -41,7 +36,54 @@
 			141,
 			254
 		],
-		"uniqueName": "Centauria",
+		"uniqueName": "From the Fog",
+		"uniques": [
+		],
+		"cities": [
+			"City1",
+			"City2"
+		],
+		"spyNames": [
+			"Jason",
+			"Helena",
+			"Alexa",
+			"Cletus",
+			"Kassandra",
+			"Andres",
+			"Flavius",
+			"Regula",
+			"Servius",
+			"Señor X",
+			"Topolino",
+			"Serpiente"
+		]
+	},
+	{
+		"name": "Athenian Fleet",
+		"leaderName": "Solon",
+		"adjective": [
+			"Athenian"
+		],
+		"startIntroPart1": "The atlantis has been a menace over the entire known world. The city state of athens is at war with altantis. The expedition fleet departed, and they havent seen any land for quite a while.",
+		"startIntroPart2": "This must be the altantis!",
+		"declaringWar": "Get away you Barbarian!",
+		"attacked": "You are just as barbaric as the altanians!",
+		"defeated": "We failed.",
+		"introduction": "Greetings, stranger from other worldly land.",
+		"neutralHello": "Maybe we share the same ideal afterall...",
+		"hateHello": "Beware of your action.",
+		"tradeRequest": "For the greater good of humanity, We should exchange our goods.",
+		"outerColor": [
+			65,
+			141,
+			254
+		],
+		"innerColor": [
+			255,
+			255,
+			255
+		],
+		"uniqueName": "The Punisher",
 		"uniques": [
 		],
 		"cities": [
