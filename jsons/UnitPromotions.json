@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Curse of the Island",
+		"uniques": [
+			"[This Unit] takes [15] damage <upon ending a turn in a [Desert] tile> <if [Decoding: Desert Survival] is not constructed by anybody>",
+			"[This Unit] takes [15] damage <upon ending a turn in a [Desert] tile> <if [Decoding: Desert Logistics] is not constructed by anybody>",
+			"[This Unit] takes [15] damage <upon ending a turn in a [Desert] tile> <if [Decoding: Fallen Cities] is not constructed by anybody>",
+			"[This Unit] takes [15] damage <upon ending a turn in a [Desert] tile> <if [Decoding: Unnatural Vocanic Activity] is not constructed by anybody>",
+			"[This Unit] takes [15] damage <upon ending a turn in a [Desert] tile> <if [Decoding: Rebuilding Desert] is not constructed by anybody>",
+			"[This Unit] takes [33] damage <upon ending a turn in a [Snow] tile> <if [Decoding: Snow Flake of Death] is not constructed by anybody>",
+			"[This Unit] takes [33] damage <upon ending a turn in a [Snow] tile> <if [Decoding: Protection from Extreme Cold] is not constructed by anybody>",
+			"[This Unit] takes [33] damage <upon ending a turn in a [Snow] tile> <if [Decoding: Victory Against the Unknown] is not constructed by anybody>",
+			"Comment [The futher into the center, the deadlier the Island becomes.]"
+		]
+	}
+]

@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Island Explorer",
+		"cost": 100,
+		"unitType": "Civilian",
+		"movement": 3,
+		"uniques": [
+			"Can instantly construct a [Research Station] improvement <[2] times> <after which this unit is consumed>"
+		],
+		"requiredTech": "Paper Making",
+		"hurryCostModifier": 10
+	}
+]

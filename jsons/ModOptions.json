@@ -52,8 +52,12 @@
     "Renaissance Era Start",
     "Imperial Era Start",
     "Industrial Era Start",
+    "Modern Era Start",
     "Atomic Era Start",
     "Information Era Start",
     "Future Era Start"
+    ],
+    "unitsToRemove":[
+
     ]
 }

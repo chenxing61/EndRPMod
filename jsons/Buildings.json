@@ -94,6 +94,8 @@
 		"uniques":[
 			"Unavailable",
 			"Unsellable",
+			"Comment [None of the existing scientific theory can explain the strange things on the island.]",
+			"Comment [However, there doesnt seems to be a lack of ruins and artefacts coming from previous inhabitants. Despite their convoluted origins.]",
 			"[-1000]% [Science] [in all cities]",
 			"[+100]% [Science] [in all cities] <when number of [Knowledge] is equal to [1]>",  
 			"[+200]% [Science] [in all cities] <when number of [Knowledge] is equal to [2]>",  
@@ -188,5 +190,98 @@
 			"Cost increases by [50] per owned city <if [Unified] is not constructed>"
 		],
 		"requiredTech": "Heliocentrism"
+	},
+	{
+		"name":"Decoding: Desert Survival",
+		"isWonder": true,
+		"cost":150,
+		"science":10,
+		"uniques":[
+			"Gain [200] [Science] <(modified by game speed)>",
+			"Gain [200] [Gold] <(modified by game speed)>",
+			"Comment [Less attrition in desert for every player.]"	
+		],
+		"requiredTech": "Logistics",
+		"hurryCostModifier": 25
+	},
+	{
+		"name":"Decoding: Desert Logistics",
+		"isWonder": true,
+		"cost":150,
+		"science":10,
+		"uniques":["Gain [200] [Science] <(modified by game speed)>",
+			"Gain [200] [Gold] <(modified by game speed)>",
+			"Comment [Less attrition in desert for every player.]"	
+		],
+		"requiredTech": "Logistics",
+		"hurryCostModifier": 25
+	},
+	{
+		"name":"Decoding: Fallen Cities",
+		"isWonder": true,
+		"cost":250,
+		"science":10,
+		"uniques":[
+			"Gain [200] [Science] <(modified by game speed)>",
+			"Gain [200] [Gold] <(modified by game speed)>",
+			"Comment [Less attrition in desert for every player.]"	
+		],
+		"requiredTech": "Engineering",
+		"hurryCostModifier": 25
+	},
+	{
+		"name":"Decoding: Unnatural Vocanic Activity",
+		"isWonder": true,
+		"cost":250,
+		"science":10,
+		"uniques":["Gain [200] [Science] <(modified by game speed)>",
+			"Gain [200] [Gold] <(modified by game speed)>","Comment [Less attrition in desert for every player.]"	
+		],
+		"requiredTech": "Geology",
+		"hurryCostModifier": 25
+	},
+	{
+		"name":"Decoding: Rebuilding Desert",
+		"isWonder": true,
+		"cost":250,
+		"science":10,
+		"uniques":["Gain [200] [Science] <(modified by game speed)>",
+			"Gain [200] [Gold] <(modified by game speed)>","Comment [Nullifies attrition in desert for every player.]"	
+		],
+		"requiredTech": "Refrigeration",
+		"hurryCostModifier": 25
+	},
+	{
+		"name":"Decoding: Snow Flake of Death",
+		"isWonder": true,
+		"cost":250,
+		"science":10,
+		"uniques":["Gain [200] [Science] <(modified by game speed)>",
+			"Gain [200] [Gold] <(modified by game speed)>","Comment [Less attrition in snow for every player.]"	
+		],
+		"requiredTech": "Chemistry",
+		"hurryCostModifier": 25
+	},
+	{
+		"name":"Decoding: Protection from Extreme Cold",
+		"isWonder": true,
+		"cost":250,
+		"science":10,
+		"uniques":["Gain [200] [Science] <(modified by game speed)>",
+			"Gain [200] [Gold] <(modified by game speed)>","Comment [Less attrition in snow for every player.]"	
+		],
+		"requiredTech": "Pharmaceuticals",
+		"hurryCostModifier": 25
+	},
+	{
+		"name":"Decoding: Victory Against the Unknown",
+		"isWonder": true,
+		"cost":250,
+		"science":10,
+		"uniques":["Gain [200] [Science] <(modified by game speed)>",
+			"Gain [200] [Gold] <(modified by game speed)>","Comment [Nullifies attrition in snow for every player.]"	
+		],
+		"requiredTech": "Telecommunications",
+		"hurryCostModifier": 25
 	}
 ]

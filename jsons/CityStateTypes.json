@@ -1,0 +1,23 @@
+[
+    ///Scholarship
+    {
+        "name": "Lost Civilization",
+        "friendBonusUniques": [
+            "Provides [1] [Knowledge] <when above [0] [Influence]>",
+            "[+17]% Production when constructing ['Cultural Building'] buildings [in all cities]",
+            "[+17]% Production when constructing ['Entertainment Building'] buildings [in all cities]"
+        ],
+        "allyBonusUniques": [
+            "Triggers a [The Relevation] event <when below [1] [Relevation]> <hidden from users>",
+            "Provides [1] [Knowledge] <when above [0] [Influence]>",
+            "[+33]% Production when constructing ['Cultural Building'] buildings [in all cities]",
+            "[+33]% Production when constructing ['Entertainment Building'] buildings [in all cities]",
+            "Provides [1] [Influence] <after discovering [Diplomacy]> <when number of [Influence] is less than [Influence Limit]>"
+        ],
+        "color": [
+            161,
+            3,
+            252
+        ]
+    }
+]

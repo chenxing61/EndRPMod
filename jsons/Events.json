@@ -1,0 +1,16 @@
+[
+        {
+        "name": "The Relevation",
+        "text": "As we estabilitshed close relation with the assumed native of this island. They've told us the final secret to leave this place.",
+        "choices": [
+            {
+                "text": "At the center of the Islands...",
+                "uniques": [
+                    "Comment [There lies the pillar of creation. The most powerful thing. It grants mortals the ultimate power.]",
+                    "Comment [With such power, escaping is only the start of something greater.]",
+                    "Instantly provides [1] [Relevation]"
+                ]
+            }
+        ]
+    }
+]

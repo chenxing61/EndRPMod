@@ -7,19 +7,18 @@
 			"Desert"
 		],
 		"Science": 5,
-		"turnsToBuild": 1,
 		"techRequired": "Writing",
 		"uniques": [
 			"Unavailable <with [1] to [1] neighboring [Research Station] tiles>",
 			"Tile provides yield without assigned population",
-			"Must be next to [Natural wonder]",
-			"Provides [1] [Knowledge] <with [1] to [1] neighboring [Natural wonder] tiles>",
+			"Must be next to [Natural Wonder]",
+			"Provides [1] [Knowledge] <with [1] to [1] neighboring [Natural Wonder] tiles>",
 			"Provides [4] [Knowledge] <with [1] to [1] neighboring [Pillar of Creation] tiles> <hidden from users>",
 			"Pillaging this improvement yields approximately [+18 Gold]"
 		],
 		"civilopediaText": [
 			{
-				"text": "Nothing makes sense here... But we can make do."
+				"text": "It seems like theres not only pioneers before us, they also estabilished their civs around these Natural Wonders identical to the earth's natural wonders."
 			}
 		],
 		"shortcutKey": "F"

@@ -17,7 +17,7 @@
 		"adjective": [
 			"Centaurian"
 		],
-		"startIntroPart1": "The refugee ship named centauria, setting off from alaska, has not arrived at any land since about 2 months ago. Now that it has exhausted its food and fresh water supply, it if forced to take a gamble under mysterious circumstances.",
+		"startIntroPart1": "The refugee ship named USS Centaur, has setted off from alask, but it has not arrived at any land since about 2 months ago. Now that it has exhausted its food and fresh water supply, it if forced to take a gamble under mysterious circumstances.",
 		"startIntroPart2": "I dont think this is San Franciso! Did the Russian wrecked it from the map?",
 		"declaringWar": "Get away you Barbarian!",
 		"attacked": "Havent WWIII taught you anything?",
@@ -27,16 +27,12 @@
 		"hateHello": "Beware of your action.",
 		"tradeRequest": "For the greater good of humanity, We should exchange our goods.",
 		"outerColor": [
-			255,
-			255,
-			255
+					19, 19, 19
 		],
 		"innerColor": [
-			65,
-			141,
-			254
+				139, 0, 0
 		],
-		"uniqueName": "From the Fog",
+		"uniqueName": "From the land of freedom",
 		"uniques": [
 		],
 		"cities": [
@@ -103,6 +99,169 @@
 			"Señor X",
 			"Topolino",
 			"Serpiente"
+		]
+	},
+	{
+		"name": "British Expedition Fleet",
+		"leaderName": "Captain Fancy Tom",
+		"adjective": [
+			"British"
+		],
+		"startIntroPart1": "The search for the great Terra Australis has been a tough one, the fleet has almost exhausted the hard tack supply before reaching this land.",
+		"startIntroPart2": "This must be the Terra Australis! However our compass isnt working so well...",
+		"declaringWar": "Get off this land you rascal!",
+		"attacked": "How dare you attack the british empire?",
+		"defeated": "We failed.",
+		"introduction": "Greetings, stranger from other worldly land.",
+		"neutralHello": "Maybe we share the same ideal afterall...",
+		"hateHello": "Beware of your action.",
+		"tradeRequest": "For the greater good of humanity, We should exchange our goods.",
+		"outerColor": [
+			65,
+			141,
+			254
+		],
+		"innerColor": [
+			255,
+			255,
+			255
+		],
+		"uniqueName": "Sea Dogs",
+		"uniques": [
+		],
+		"cities": [
+			"City1",
+			"City2"
+		],
+		"spyNames": [
+			"Jason",
+			"Helena",
+			"Alexa",
+			"Cletus",
+			"Kassandra",
+			"Andres",
+			"Flavius",
+			"Regula",
+			"Servius",
+			"Señor X",
+			"Topolino",
+			"Serpiente"
+		]
+	},
+	{
+		"name": "Al-Maliki",
+		"leaderName": "Dawud Raghad Khayr Omar",
+		"adjective": [
+			"Malikites"
+		],
+		"startIntroPart1": "As the long living empire of of Almohades has employed futher constrain on religion believes, completely eradicating the school of Maliki. The Last of the Old-world Malikites starts their exodus to the new world. As the former moroccan colonies has long been independent and has less religious contrain.",
+		"startIntroPart2": "As they prayed on the ship, they've finally found the land appearing on the horizon.",
+		"declaringWar": "Our toleration is limited! Infidel.",
+		"attacked": "We will not live under another oppressor!",
+		"defeated": "We failed.",
+		"introduction": "Greetings, stranger from other worldly land.",
+		"neutralHello": "Maybe we share the same ideal afterall...",
+		"hateHello": "Beware of your action.",
+		"tradeRequest": "For the greater good of humanity, We should exchange our goods.",
+		"outerColor": [
+			30,
+			120,
+			0
+		],
+		"innerColor": [
+			255,
+			242,
+			0
+		],
+		"uniqueName": "Colonizer",
+		"uniques": [
+		],
+		"cities": [
+			"City1",
+			"City2"
+		],
+		"spyNames": [
+			"Azi",
+			"Dabir",
+			"Firuz",
+			"Gaspar",
+			"Shahzad",
+			"Aga",
+			"Ibrahim",
+			"Bayezid",
+			"Sokollu",
+			"Mahmut",
+			"Uveys",
+			"Roxelana"
+		]
+	},
+	{
+		"name": "Tao Hua Yuan",
+		"adjective": [
+			"Chinese"
+		],
+		"cityStateType": "Lost Civilization",
+		"declaringWar": "Why disturb the peace?",
+		"attacked": "Why disturb the peace?",
+		"defeated": "You will be lost soon. Rage simply isnt the way it should be.",
+		"outerColor": [
+			0,
+			0,
+			0
+		],
+		"innerColor": [
+			255,
+			161,
+			161
+		],
+		"cities": [
+			"Tao Hua Yuan"
+		]
+	},
+	{
+		"name": "Atlantis",
+		"adjective": [
+			"Atlantian"
+		],
+		"cityStateType": "Lost Civilization",
+		"declaringWar": "Tho atlantis has sunken, We wont lose against you.",
+		"attacked": "But Why?",
+		"defeated": "You will never be out anyway...",
+		"outerColor": [
+			0,
+			0,
+			0
+		],
+		"innerColor": [
+			255,
+			255,
+			255
+		],
+		"cities": [
+			"New Atlantis"
+		]
+	},
+	{
+		"name": "Robinsonia",
+		"adjective": [
+			"Robinsons"
+		],
+		"cityStateType": "Middleman of the continent",
+		"declaringWar": "You are disturbing the peace",
+		"attacked": "We trade gun and bullets too.",
+		"defeated": "Why, christ. I have done nothing but trasporting goods for the past 900 years.",
+		"outerColor": [
+			0,
+			0,
+			0
+		],
+		"innerColor": [
+			255,
+			255,
+			255
+		],
+		"cities": [
+			"Robinsonia"
 		]
 	},
 	//Barbarian
