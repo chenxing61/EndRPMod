@@ -195,6 +195,54 @@
 			"Roxelana"
 		]
 	},
+		{
+		"name": "Tutonic Order",
+		"leaderName": "Grand Master Schatten",
+		"adjective": [
+			"Tutonic Knights"
+		],
+		"startIntroPart1": "As the eastern pagans began their excessive retaliation. The Order of Brothers of the German House of Saint Mary in Jerusalem has lost their territory in the baltic shores.",
+		"startIntroPart2": "The knights retreated to the sea, it would be a while before they reach another shore... That isnt europe anymore.",
+		"declaringWar": "Our toleration is limited! Infidel.",
+		"attacked": "God bless us to defend your vile regime!",
+		"defeated": "We failed.",
+		"introduction": "Ah.. Another lamb of our lord.",
+		"neutralHello": "We can tolerate.",
+		"hateHello": "Beware of your action, Infidel",
+		"tradeRequest": "For the greater good of humanity, We should exchange our goods.",
+		"outerColor": [
+			255,
+			255,
+			255
+		],
+		"innerColor": [
+			0,
+			0,
+			0
+			
+		],
+		"uniqueName": "Holy War",
+		"uniques": [
+		],
+		"cities": [
+			"City1",
+			"City2"
+		],
+		"spyNames": [
+			"Azi",
+			"Dabir",
+			"Firuz",
+			"Gaspar",
+			"Shahzad",
+			"Aga",
+			"Ibrahim",
+			"Bayezid",
+			"Sokollu",
+			"Mahmut",
+			"Uveys",
+			"Roxelana"
+		]
+	},
 	{
 		"name": "Tao Hua Yuan",
 		"adjective": [
