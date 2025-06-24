@@ -27,12 +27,15 @@
 		"hateHello": "Beware of your action.",
 		"tradeRequest": "For the greater good of humanity, We should exchange our goods.",
 		"outerColor": [
-					19, 19, 19
+			255,
+			255,
+			255
 		],
 		"innerColor": [
-				139, 0, 0
+			65,
+			141,
+			254
 		],
-		"uniqueName": "From the land of freedom",
 		"uniques": [
 		],
 		"cities": [
@@ -70,16 +73,11 @@
 		"hateHello": "Beware of your action.",
 		"tradeRequest": "For the greater good of humanity, We should exchange our goods.",
 		"outerColor": [
-			65,
-			141,
-			254
+			97, 37, 0
 		],
 		"innerColor": [
-			255,
-			255,
-			255
+			241, 223, 53
 		],
-		"uniqueName": "The Punisher",
 		"uniques": [
 		],
 		"cities": [
@@ -117,16 +115,13 @@
 		"hateHello": "Beware of your action.",
 		"tradeRequest": "For the greater good of humanity, We should exchange our goods.",
 		"outerColor": [
-			65,
-			141,
-			254
+			199, 9, 9
 		],
 		"innerColor": [
 			255,
 			255,
 			255
 		],
-		"uniqueName": "Sea Dogs",
 		"uniques": [
 		],
 		"cities": [
@@ -150,7 +145,7 @@
 	},
 	{
 		"name": "Al-Maliki",
-		"leaderName": "Dawud Raghad Khayr Omar",
+		"leaderName": "Dawud Rashid Khayr Omar",
 		"adjective": [
 			"Malikites"
 		],
@@ -164,16 +159,11 @@
 		"hateHello": "Beware of your action.",
 		"tradeRequest": "For the greater good of humanity, We should exchange our goods.",
 		"outerColor": [
-			30,
-			120,
-			0
+			19, 19, 19
 		],
 		"innerColor": [
-			255,
-			242,
-			0
+			179, 41, 41
 		],
-		"uniqueName": "Colonizer",
 		"uniques": [
 		],
 		"cities": [
@@ -221,7 +211,6 @@
 			0
 			
 		],
-		"uniqueName": "Holy War",
 		"uniques": [
 		],
 		"cities": [
