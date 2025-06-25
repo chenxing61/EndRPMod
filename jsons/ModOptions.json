@@ -58,6 +58,16 @@
     "Future Era Start"
     ],
     "unitsToRemove":[
-
+        "Aggressive Tribes",
+        "Barbaric Nomad",
+        "Farmer Rebellion",
+        "Bandits",
+        "Rogue Aristrocrat",
+        "Outlaws",
+        "Militia Movement",
+        "Terroists",
+        "Warlord's Troops",
+        "Pirate",
+        "Pirate Fleets",
     ]
 }

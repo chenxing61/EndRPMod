@@ -9,5 +9,211 @@
 		],
 		"requiredTech": "Paper Making",
 		"hurryCostModifier": 10
-	}
+	},
+	{
+		"name": "Cannibalists",
+		"unitType": "Close Combat",
+		"movement": 2,
+		"strength": 7,
+		"uniqueTo": "Barbarians",
+		"obsoleteTech": "Industrialization",
+		"uniques": [
+			"'Barbaric Army'",
+			"'Infantry'",
+			"'Dense Formation'",
+			"'Edged Weapons'",
+			"[+50]% Strength <starting from the [Classical era]>",
+			"[+100]% Strength <starting from the [Medieval era]>",
+			"[+100]% Strength <starting from the [Renaissance era]>",
+			"[+100]% Strength <starting from the [Imperial era]>",
+			"Cannot enter ocean tiles"
+		],
+		"promotions": [
+			"Barbaric"
+		],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Bandits",
+		"unitType": "Ranged Combat",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 11,
+		"range": 1,
+		"uniqueTo": "Barbarians",
+		"uniques": [
+			"'Barbaric Army'",
+			"'Infantry'",
+			"'Skirmishers'",
+			"'Edged Weapons'",
+			"Cannot embark",
+			"[+50]% Strength <starting from the [Medieval era]>",
+			"[+50]% Strength <starting from the [Renaissance era]>"
+		],
+		"promotions": [
+			"Barbaric",
+			"Skirmisher Training"
+		],
+		"requiredTech": "Iron Working",
+		"obsoleteTech": "Industrialization",
+		"upgradesTo": "Levy Archer",
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Outlaws",
+		"unitType": "Ranged Combat",
+		"movement": 3,
+		"strength": 40,
+		"rangedStrength": 50,
+		"uniqueTo": "Barbarians",
+		"uniques": [
+			"'Barbaric Army'",
+			"'Infantry'",
+			"'Skirmishers'",
+			"'Firearms'",
+			"Cannot embark",
+			"[+25]% Strength <starting from the [Industrial era]>",
+			"[+25]% Strength <starting from the [Modern era]>"
+		],
+		"promotions": [
+			"Barbaric"
+		],
+		"requiredTech": "Flintlock",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Militia Movement",
+		"unitType": "Close Combat",
+		"movement": 2,
+		"strength": 50,
+		"uniqueTo": "Barbarians",
+		"uniques": [
+			"'Extremeist Militias'",
+			"'Infantry'",
+			"'Skirmishers'",
+			"'Firearms'",
+			"Cannot embark",
+			"[+50]% Strength <starting from the [Modern era]>"
+		],
+		"promotions": [
+			"Asymmetric Warfare",
+			"Pilliging"
+		],
+		"requiredTech": "Industrialization",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Terroists",
+		"unitType": "Close Combat",
+		"movement": 2,
+		"strength": 53,
+		"uniqueTo": "Barbarians",
+		"uniques": [
+			"'Extremeist Militias'",
+			"'Infantry'",
+			"'Skirmishers'",
+			"'Firearms'",
+			"'Levy Army'",
+			"Cannot embark",
+			"[+50]% Strength <starting from the [Atomic era]>"
+		],
+		"promotions": [
+			"Asymmetric Warfare",
+			"Pilliging"
+		],
+		"requiredTech": "Dynamite",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Warlord's Troops",
+		"unitType": "Close Combat",
+		"movement": 2,
+		"strength": 50,
+		"uniqueTo": "Barbarians",
+		"uniques": [
+			"Cannot enter ocean tiles",
+			"'Levy Army'",
+			"'Infantry'",
+			"'Dense Formation'",
+			"'Firearms'",
+			"Cannot embark",
+			"[+25]% Strength <starting from the [Industrial era]>",
+			"[+25]% Strength <starting from the [Modern era]>"
+		],
+		"promotions": [
+			"Barbaric"
+		],
+		"requiredTech": "Flintlock",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Pirate",
+		"unitType": "Close Combat Ship",
+		"movement": 2,
+		"strength": 10,
+		"uniqueTo": "Barbarians",
+		"uniques": [
+			"'Barbaric Army'",
+			"'Sailing Ship'",
+			"'Dense Formation'",
+			"'Edged Weapons'",
+			"[+100]% Strength <starting from the [Medieval era]>",
+			"[+100]% Strength <starting from the [Renaissance era]>",
+			"Can move after attacking",
+			"[This Unit] takes [25] damage <upon ending a turn in a [Ocean] tile> <before discovering [Cartography]>",
+			"Invisible to non-adjacent units"
+		],
+		"promotions": [
+			"Barbaric"
+		],
+		"requiredTech": "Astronomy",
+		"obsoleteTech": "Monocular",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Rouge Trader",
+		"unitType": "Ranged Combat Ship",
+		"movement": 2,
+		"strength": 25,
+		"rangedStrength":32,
+		"range":2,
+		"uniqueTo": "Barbarians",
+		"uniques": [
+			"'Barbaric Army'",
+			"'Sailing Ship'",
+			"'Dense Formation'",
+			"'Firearms'",
+			"[+25]% Strength <starting from the [Imperial era]>",
+			"Can move after attacking",
+			"Invisible to non-adjacent units"
+		],
+		"promotions": [
+			"Barbaric",
+			"Wheellock Pistol"
+		],
+		"requiredTech": "Compass",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Pirate Fleets",
+		"unitType": "Close Combat Ship",
+		"movement": 2,
+		"strength": 26,
+		"uniqueTo": "Barbarians",
+		"uniques": [
+			"'Barbaric Army'",
+			"'Sailing Ship'",
+			"'Dense Formation'",
+			"'Firearms'",
+			"[+25]% Strength <starting from the [Imperial era]>",
+			"Can move after attacking",
+			"Invisible to non-adjacent units"
+		],
+		"promotions": [
+			"Barbaric",
+			"Wheellock Pistol"
+		],
+		"requiredTech": "Compass",
+		"attackSound": "metalhit"
+	},
 ]
