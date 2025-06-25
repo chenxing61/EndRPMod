@@ -232,6 +232,48 @@
 			"Roxelana"
 		]
 	},
+			{
+		"name": "US Army",
+		"leaderName": "Officer 'Hyper' Red",
+		"adjective": [
+			"American"
+		],
+		"startIntroPart1": "July 1944, one of the american reinforcement fleet has encountered strange fog surrounding them. As such they are stranded on the ocean.",
+		"startIntroPart2": "After exhausting everthing edible aside from their military supply. When the fog goes away, they finally spotted land. Which is neither France, Ireland or the Canary Island.",
+		"declaringWar": "You has done something very wrong. To evoke anger from US Army.",
+		"attacked": "God bless us to defend your vile regime!",
+		"defeated": "We failed.",
+		"introduction": "So, what are you?",
+		"neutralHello": "We can tolerate.",
+		"hateHello": "Stop screwing around.",
+		"tradeRequest": "For the greater good of humanity, We should exchange our goods.",
+		"outerColor": [
+			90, 112, 41
+		],
+		"innerColor": [
+			255, 255, 255
+		],
+		"uniques": [
+		],
+		"cities": [
+			"City1",
+			"City2"
+		],
+		"spyNames": [
+			"Azi",
+			"Dabir",
+			"Firuz",
+			"Gaspar",
+			"Shahzad",
+			"Aga",
+			"Ibrahim",
+			"Bayezid",
+			"Sokollu",
+			"Mahmut",
+			"Uveys",
+			"Roxelana"
+		]
+	},
 	{
 		"name": "Tao Hua Yuan",
 		"adjective": [
