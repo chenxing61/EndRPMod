@@ -306,11 +306,13 @@
 		"uniqueTo": "British Expedition Fleet",
 		"isNationalWonder":true,
 		"cost": 0,
-		"food": 1,
+		"percentStatBonus":{"production":10},
 		"uniques": [
 			"'Outcome'",
+			"Provides [1] [Alcohol]",
+			"Free [Island Explorer] appears <upon discovering a Natural Wonder>",
 			"Free [Explorer] appears",
-			"Comment [O what a sad state of affair that we are stranded on this bloody island! At least we aint... Gentlemen, I certainly hope that we are alone.]",
+			"Comment [This bloody island! Its slightly less insufferable than our sunken ship!]",
 			"Destroyed when the city is captured"
 		]
 	}
