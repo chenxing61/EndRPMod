@@ -283,5 +283,35 @@
 		],
 		"requiredTech": "Telecommunications",
 		"hurryCostModifier": 25
+	},
+	{
+		"name": "Missionary Camp",
+		"uniqueTo": "Tutonic Order",
+		"replaces": "Chapel",
+		"cost": 25,
+		"faith": 3,
+		"uniques": [
+			"'Worship Place'",
+			"Provides [1] [Artifact] <in this city> <after discovering [Archaeology]>",
+			"Comment [The land is foreign, filled with never seen creatures and plants. We might have entered the garden of Eden! O mighty lord. If it isnt hell. The Order shall survive.]",
+			"New [Military] units start with [7] XP [in this city]",
+			"Only available <after adopting [Monotheism]>",
+			"Only available <when religion is enabled>",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Calendar"
+	},
+	{
+		"name": "Whats Left of the Empire",
+		"uniqueTo": "British Expedition Fleet",
+		"isNationalWonder":true,
+		"cost": 0,
+		"food": 1,
+		"uniques": [
+			"'Outcome'",
+			"Free [Explorer] appears",
+			"Comment [O what a sad state of affair that we are stranded on this bloody island! At least we aint... Gentlemen, I certainly hope that we are alone.]",
+			"Destroyed when the city is captured"
+		]
 	}
 ]
