@@ -4,12 +4,13 @@
 		"terrainsCanBeBuiltOn": [
 			"Plains",
 			"Grassland",
-			"Desert"
+			"Desert",
+			"Coast"
 		],
 		"Science": 5,
 		"techRequired": "Writing",
 		"uniques": [
-			"Unavailable <with [1] to [1] neighboring [Research Station] tiles>",
+			"Unavailable <with [1] to [6] neighboring [Research Station] tiles>",
 			"Tile provides yield without assigned population",
 			"Must be next to [Natural Wonder]",
 			"Provides [1] [Knowledge] <with [1] to [1] neighboring [Natural Wonder] tiles>",

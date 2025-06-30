@@ -1,27 +1,97 @@
 
 game.png
-size: 256, 128
+size: 2048, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Centauria
+ImprovementIcons/Chaos Gazer
+  rotate: false
+  xy: 544, 20
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Research Station
+  rotate: false
+  xy: 652, 20
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Al-Maliki
   rotate: false
   xy: 4, 20
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Athenian Fleet
+  rotate: false
+  xy: 112, 24
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+NationIcons/British Expedition Fleet
+  rotate: false
+  xy: 220, 20
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Centauria
+  rotate: false
+  xy: 436, 20
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Tutonic Order
+  rotate: false
+  xy: 868, 20
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/US Army
+  rotate: false
+  xy: 976, 20
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/archive-research
+  rotate: false
+  xy: 1084, 20
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Chaos Fog
   rotate: false
-  xy: 112, 64
+  xy: 1192, 64
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Pillar of Creation
   rotate: false
-  xy: 184, 4
+  xy: 1264, 4
   size: 64, 116
   orig: 64, 116
+  offset: 0, 0
+  index: -1
+UnitIcons/Cannibalists
+  rotate: false
+  xy: 328, 20
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rouge Trader
+  rotate: false
+  xy: 760, 20
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1

@@ -42,20 +42,7 @@
 			"City1",
 			"City2"
 		],
-		"spyNames": [
-			"Jason",
-			"Helena",
-			"Alexa",
-			"Cletus",
-			"Kassandra",
-			"Andres",
-			"Flavius",
-			"Regula",
-			"Servius",
-			"Señor X",
-			"Topolino",
-			"Serpiente"
-		]
+		"spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 	},
 	{
 		"name": "Athenian Fleet",
@@ -84,20 +71,7 @@
 			"City1",
 			"City2"
 		],
-		"spyNames": [
-			"Jason",
-			"Helena",
-			"Alexa",
-			"Cletus",
-			"Kassandra",
-			"Andres",
-			"Flavius",
-			"Regula",
-			"Servius",
-			"Señor X",
-			"Topolino",
-			"Serpiente"
-		]
+		"spyNames": ["Jason", "Helena", "Alexa", "Cletus", "Kassandra", "Andres", "Desdemona", "Anthea", "Aeneas", "Leander"]
 	},
 	{
 		"name": "British Expedition Fleet",
@@ -128,20 +102,7 @@
 			"City1",
 			"City2"
 		],
-		"spyNames": [
-			"Jason",
-			"Helena",
-			"Alexa",
-			"Cletus",
-			"Kassandra",
-			"Andres",
-			"Flavius",
-			"Regula",
-			"Servius",
-			"Señor X",
-			"Topolino",
-			"Serpiente"
-		]
+		"spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
 	},
 	{
 		"name": "Al-Maliki",
@@ -217,20 +178,7 @@
 			"City1",
 			"City2"
 		],
-		"spyNames": [
-			"Azi",
-			"Dabir",
-			"Firuz",
-			"Gaspar",
-			"Shahzad",
-			"Aga",
-			"Ibrahim",
-			"Bayezid",
-			"Sokollu",
-			"Mahmut",
-			"Uveys",
-			"Roxelana"
-		]
+		"spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
 	},
 			{
 		"name": "US Army",
@@ -259,20 +207,7 @@
 			"City1",
 			"City2"
 		],
-		"spyNames": [
-			"Azi",
-			"Dabir",
-			"Firuz",
-			"Gaspar",
-			"Shahzad",
-			"Aga",
-			"Ibrahim",
-			"Bayezid",
-			"Sokollu",
-			"Mahmut",
-			"Uveys",
-			"Roxelana"
-		]
+		"spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 	},
 	{
 		"name": "Tao Hua Yuan",
