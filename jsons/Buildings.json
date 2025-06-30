@@ -315,5 +315,19 @@
 			"Comment [This bloody island! Its slightly less insufferable than our sunken ship!]",
 			"Destroyed when the city is captured"
 		]
+	},
+	{
+		"name": "Athenian Tradition",
+		"uniqueTo": "Athenian Fleet",
+		"cost": 50,
+		"food":1,
+		"production":1,
+		"gold":2,
+		"uniques": [
+			"Connects trade routes over water",
+			"[-20]% [Gold] from Trade Routes",
+			"Comment [O Posedon of the Violent Waves, have we not sent enough prayers and offering? Why cover thy sea in vile fogs?]",
+			"Destroyed when the city is captured"
+		]
 	}
 ]
