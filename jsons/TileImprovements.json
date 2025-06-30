@@ -5,7 +5,8 @@
 			"Plains",
 			"Grassland",
 			"Desert",
-			"Coast"
+			"Coast",
+			"Hill"
 		],
 		"Science": 5,
 		"techRequired": "Writing",
