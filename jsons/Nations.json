@@ -201,7 +201,7 @@
 		"innerColor": [
 			255, 255, 255
 		],
-		"uniques": [
+		"uniques": ["[25]% Production when constructing [Settler] units [in all cities]"
 		],
 		"cities": [
 			"City1",
