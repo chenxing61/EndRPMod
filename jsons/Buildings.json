@@ -327,5 +327,18 @@
 			"Comment [O Posedon of the Violent Waves, have we not sent enough prayers and offering? Why cover thy sea in vile fogs?]",
 			"Destroyed when the city is captured"
 		]
-	}
+	},
+	{
+		"name": "To think, this land can have centaurs",
+		"uniqueTo": "Centauria",
+		"isNationalWonder":true,
+		"cost": 0,
+		"uniques": [
+			"'Outcome'",
+			"[+2 Faith] from [Horse] tiles [in all cities]",
+			"[+1 Faith] from [Grassland] tiles without [Resource] [in all cities]",
+			"Comment ['A never seen before land must have centaurs on it!' said the captain. Before he jumps off the ship and swims to the land. I think he might be a little crazy. But our radar doesnt work at all and this landmass seems ridculously big. As such, I have to assume that is the case...After all, why not?]",
+			"Destroyed when the city is captured"
+		]
+	},
 ]
